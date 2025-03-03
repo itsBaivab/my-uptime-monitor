@@ -5,18 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.devdotcom.in.ico",
     "slug": "devdotcom",
     "status": "up",
-    "uptime": "0.51%",
-    "uptimeDay": "0.51%",
-    "uptimeWeek": "0.51%",
-    "uptimeMonth": "0.51%",
-    "uptimeYear": "0.51%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 100,
     "timeDay": 100,
     "timeWeek": 100,
     "timeMonth": 100,
     "timeYear": 100,
-    "dailyMinutesDown": {
-      "2025-03-03": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
